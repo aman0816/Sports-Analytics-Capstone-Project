@@ -1,4 +1,5 @@
 # Sports-Analytics-Capstone-Project
+## Google Drive link For Video : https://drive.google.com/file/d/13-AcobRrOgXuHlwYGxLMcwBwrOrkSnT-/view?usp=sharinghttps://drive.google.com/file/d/13-AcobRrOgXuHlwYGxLMcwBwrOrkSnT-/view?usp=sharing 
 ## Project Explanation
 This project is all about analyzing the history of the Olympic Games using a detailed dataset. The data covers everything from the sports and events to the athletes, medals, and countries involved. By exploring this information, we can discover interesting trends—like which countries or sports have become more popular, how participation has changed, and what factors lead to Olympic success.
 ## Objective of the Project
@@ -62,6 +63,9 @@ Develop a comprehensive PowerPoint presentation that encapsulates the sports ana
 
 ## Detailed Documentation:
 Compile a detailed report that meticulously documents the entire sports analytics project lifecycle. Include sections on sports data collection, transformation, problem statement formulation, tools integration, Power BI solutions, EDA insights, and PowerPoint visualizations focused on Olympic Games historical analysis and performance metrics.
+
+
+
 
 
 ![Image Alt](https://github.com/aman0816/Sports-Analytics-Capstone-Project/blob/da72cb8e334f59fe3e25a4524324c01e2a17e3f4/Dashboard_image_sports.PNG).
